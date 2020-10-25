@@ -1,3 +1,3 @@
 # BP_sensorTesting_Arduino
 
-arduino code for sensors
+Arduino code for collecting distance sensor data and transmitting it to a mobile application through Bluetooth.
